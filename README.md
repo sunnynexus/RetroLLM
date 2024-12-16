@@ -32,7 +32,7 @@ pip install -r requirements.txt
 wget http://prdownloads.sourceforge.net/swig/swig-4.0.2.tar.gz
 tar zxvf swig-4.0.2.tar.gz
 cd swig-4.2.1
-./configure --without-pcre --prefix=/home/u2023000153
+./configure --without-pcre --prefix=YOUR_CODE_DIR
 make -j
 make install
 ```
