@@ -1,3 +1,0 @@
-[submodule "scripts/res/external/sdsl-lite"]
-	path = scripts/res/external/sdsl-lite
-	url = git@github.com:simongog/sdsl-lite.git
