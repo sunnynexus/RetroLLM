@@ -68,14 +68,14 @@ Each dataset should be processed following the FlashRAG format specifications. D
 
 To evaluate the model on the test sets:
 
-1. Edit `scripts/generate_rerank.py` to set the correct paths for:
+1. Edit `scripts/generate.py` to set the correct paths for:
    - Model and checkpoint paths
    - Dataset paths
    - Output directory
 
 2. Run evaluation:
 ```bash
-python scripts/generate_rerank.py
+python scripts/generate.py
 ```
 
 ## Citation
