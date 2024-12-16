@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-[![Paper](https://img.shields.io/badge/Paper-arxiv-red)](https://arxiv.org/abs/xxxx) [![Awesome](https://img.shields.io/badge/Awesome-GenIR-blue)](https://github.com/RUC-NLPIR/GenIR-Survey) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
+[![Paper](https://img.shields.io/badge/Paper-arxiv-red)](https://arxiv.org/abs/xxxx) [![Awesome](https://img.shields.io/badge/Awesome-GenIR-blue)](https://github.com/RUC-NLPIR/GenIR-Survey) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/sunnynexus/RetroLLM/blob/main/LICENSE) [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
 
 </div>
 
@@ -69,7 +69,7 @@ Each dataset should be processed following the FlashRAG format specifications. D
 To evaluate the model on the test sets:
 
 1. Edit `scripts/generate_rerank.py` to set the correct paths for:
-   - Model checkpoint
+   - Model and checkpoint paths
    - Dataset paths
    - Output directory
 
