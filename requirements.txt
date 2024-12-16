@@ -1,0 +1,4 @@
+transformers
+omegaconf
+peft
+sentencepiece
