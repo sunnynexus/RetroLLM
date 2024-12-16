@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-[![Paper](https://img.shields.io/badge/Paper-arxiv-red)](https://arxiv.org/abs/xxxx) [![Awesome](https://img.shields.io/badge/Awesome-GenIR-blue)](https://github.com/RUC-NLPIR/GenIR-Survey) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/sunnynexus/RetroLLM/blob/main/LICENSE) [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/sunnynexus/RetroLLM/blob/main/LICENSE) [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
 
 </div>
 
@@ -77,27 +77,5 @@ To evaluate the model on the test sets:
 ```bash
 python scripts/generate_rerank.py
 ```
-
-## Citation
-If you find this work helpful, please cite our paper:
-```bibtex
-@article{retrollm2024,
-    title={RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation},
-    author={Xiaoxi Li and
-            Jiajie Jin and
-            Yujia Zhou and
-            Yongkang Wu and
-            Zhonghua Li and
-            Qi Ye and
-            Zhicheng Dou},
-    journal={CoRR},
-    volume={abs/},
-    year={2024},
-    url={https://arxiv.org/abs/},
-    eprinttype={arXiv},
-    eprint={}
-}
-```
-
 ## License
 This project is released under the [MIT License](LICENSE).
