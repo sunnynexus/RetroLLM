@@ -656,7 +656,7 @@ if enable_constrain:
         retriever_model=retriever_model,
         window_size=32,
         max_window_num=512,
-        # seperate config for single-hop and multi-hop QA
+        # separate config for single-hop and multi-hop QA
         max_window_num_per_doc=12 if dataset_name in ['hotpotqa', '2wiki'] else 32,  
         top_k_wd=10 if dataset_name in ['hotpotqa', '2wiki'] else 5,
         top_k=50 if dataset_name in ['hotpotqa', '2wiki'] else 25,
