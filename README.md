@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-[![Paper](https://img.shields.io/badge/Paper-arxiv-red)](https://arxiv.org/abs/xxxx) [![Awesome](https://img.shields.io/badge/Awesome-GenIR-blue)](https://github.com/RUC-NLPIR/GenIR-Survey) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/sunnynexus/RetroLLM/blob/main/LICENSE) [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
+[![Paper](https://img.shields.io/badge/Paper-arxiv-red)](https://arxiv.org/abs/2412.11919) [![Awesome](https://img.shields.io/badge/Awesome-GenIR-blue)](https://github.com/RUC-NLPIR/GenIR-Survey) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/sunnynexus/RetroLLM/blob/main/LICENSE) [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
 
 </div>
 
@@ -91,11 +91,11 @@ If you find this work helpful, please cite our paper:
             Qi Ye and
             Zhicheng Dou},
     journal={CoRR},
-    volume={abs/},
+    volume={abs/2412.11919},
     year={2024},
-    url={https://arxiv.org/abs/},
+    url={https://arxiv.org/abs/2412.11919},
     eprinttype={arXiv},
-    eprint={}
+    eprint={2412.11919}
 }
 ```
 
