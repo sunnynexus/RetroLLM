@@ -17,6 +17,11 @@ To mitigate false pruning in constrained evidence generation, we propose hierarc
 
 ## 🔧 Installation
 
+Clone this repo with `--recursive` so that you also include the submodule in `scripts/res/external`.
+```bash
+git clone --recursive https://github.com/sunnynexus/RetroLLM.git
+```
+
 ### 1. Environment Setup
 ```bash
 # Create conda environment
